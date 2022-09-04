@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Wilberth</h1>
 - 📫 How to reach me **wgcampos15@gmail.com**
 - 
-<h3 align="center">FrontEnd knowledge</h3>
+<h3 align="center">FrontEnd Knowledge</h3>
 <p align="center">
 <!-- HTML -->
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
