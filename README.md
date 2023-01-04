@@ -95,11 +95,7 @@
 </p>
 
 
-<p><img align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=wilberthgamboa&show_icons=true&locale=en&layout=compact"
-        alt="wilberthgamboa" /></p>
-
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wilberthgamboa&hide=html,css,scss)](https://github.com/wilberthgamboa/github-readme-stats)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wilberthgamboa&"
         alt="wilberthgamboa" /></p>
